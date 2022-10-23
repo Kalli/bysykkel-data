@@ -1,4 +1,4 @@
-address,capacity,lat,lon,name,rental_uris,station_id
+station_id,name,address,lat,lon,capacity
 2351,Sogn Studentby,Jon P Erliens vei 1,59.95208441268443,10.727852791011173,18
 2350,Blindern T-Bane,Apalveien 60,59.94022899411701,10.716856460117071,25
 2340,Tiedemannsparken,Hovinveien 43,59.92024767905539,10.793540704010042,25
