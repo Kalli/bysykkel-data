@@ -20,7 +20,7 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: "https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json"
+          http_url: https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json
           downloaded_filename: station_status.json
-          axios_config: axios.json
+          axios_config: _axios.json
           postprocess: ./postprocessing.js
