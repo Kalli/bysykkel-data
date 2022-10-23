@@ -1,0 +1,3129 @@
+{
+  "last_updated": 1666548064,
+  "ttl": 10,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "station_id": "2351",
+        "name": "Sogn Studentby",
+        "address": "Jon P Erliens vei 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2351",
+          "ios": "oslobysykkel://stations/2351"
+        },
+        "lat": 59.95208441268443,
+        "lon": 10.727852791011173,
+        "capacity": 18
+      },
+      {
+        "station_id": "2350",
+        "name": "Blindern T-Bane",
+        "address": "Apalveien 60",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2350",
+          "ios": "oslobysykkel://stations/2350"
+        },
+        "lat": 59.94022899411701,
+        "lon": 10.716856460117071,
+        "capacity": 25
+      },
+      {
+        "station_id": "2349",
+        "name": "Maritimt Museum",
+        "address": "Bygdøynesveien 37",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2349",
+          "ios": "oslobysykkel://stations/2349"
+        },
+        "lat": 59.902942924651484,
+        "lon": 10.698048967006343,
+        "capacity": 21
+      },
+      {
+        "station_id": "2347",
+        "name": "Huk 2",
+        "address": "Strømsborgveien 48",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2347",
+          "ios": "oslobysykkel://stations/2347"
+        },
+        "lat": 59.89843428245928,
+        "lon": 10.674398461025874,
+        "capacity": 30
+      },
+      {
+        "station_id": "2340",
+        "name": "Tiedemannsparken",
+        "address": "Hovinveien 43",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2340",
+          "ios": "oslobysykkel://stations/2340"
+        },
+        "lat": 59.92024767905539,
+        "lon": 10.793540704010042,
+        "capacity": 25
+      },
+      {
+        "station_id": "2339",
+        "name": "Elgsletta",
+        "address": "Norbygata 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2339",
+          "ios": "oslobysykkel://stations/2339"
+        },
+        "lat": 59.91564920880896,
+        "lon": 10.761724502548105,
+        "capacity": 30
+      },
+      {
+        "station_id": "2337",
+        "name": "Universitetsgata",
+        "address": "Universitetsgata 18",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2337",
+          "ios": "oslobysykkel://stations/2337"
+        },
+        "lat": 59.91591543378553,
+        "lon": 10.737834990277321,
+        "capacity": 15
+      },
+      {
+        "station_id": "2334",
+        "name": "Nybrua holdeplass",
+        "address": "Storgata 53a",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2334",
+          "ios": "oslobysykkel://stations/2334"
+        },
+        "lat": 59.916544926082935,
+        "lon": 10.757428972017067,
+        "capacity": 12
+      },
+      {
+        "station_id": "2333",
+        "name": "Akerselvallmenningen",
+        "address": "Nylandsveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2333",
+          "ios": "oslobysykkel://stations/2333"
+        },
+        "lat": 59.90725889890288,
+        "lon": 10.754884663589621,
+        "capacity": 15
+      },
+      {
+        "station_id": "2332",
+        "name": "Krohgstøtten hospital",
+        "address": "Storgata 38",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2332",
+          "ios": "oslobysykkel://stations/2332"
+        },
+        "lat": 59.91629601075576,
+        "lon": 10.757376666842816,
+        "capacity": 12
+      },
+      {
+        "station_id": "2330",
+        "name": "Stjerneplassen",
+        "address": "Storgata 10a",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2330",
+          "ios": "oslobysykkel://stations/2330"
+        },
+        "lat": 59.91323316606503,
+        "lon": 10.749958763650312,
+        "capacity": 15
+      },
+      {
+        "station_id": "2329",
+        "name": "Via Vika",
+        "address": "Dronning Mauds gate 10",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2329",
+          "ios": "oslobysykkel://stations/2329"
+        },
+        "lat": 59.91271286014364,
+        "lon": 10.727170827087008,
+        "capacity": 15
+      },
+      {
+        "station_id": "2328",
+        "name": "The Hub",
+        "address": "Biskop Gunnerus Gate 3",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2328",
+          "ios": "oslobysykkel://stations/2328"
+        },
+        "lat": 59.912522370233745,
+        "lon": 10.750910185807754,
+        "capacity": 21
+      },
+      {
+        "station_id": "2315",
+        "name": "Rostockgata",
+        "address": "Rostockgata 5",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2315",
+          "ios": "oslobysykkel://stations/2315"
+        },
+        "lat": 59.90691970255054,
+        "lon": 10.760311802881915,
+        "capacity": 18
+      },
+      {
+        "station_id": "2309",
+        "name": "Ulven Torg",
+        "address": "Ulvenveien 89",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2309",
+          "ios": "oslobysykkel://stations/2309"
+        },
+        "lat": 59.92472050943934,
+        "lon": 10.810727302805304,
+        "capacity": 30
+      },
+      {
+        "station_id": "2308",
+        "name": "Gunerius",
+        "address": "Storgata 33",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2308",
+          "ios": "oslobysykkel://stations/2308"
+        },
+        "lat": 59.91459878869395,
+        "lon": 10.753398500006654,
+        "capacity": 12
+      },
+      {
+        "station_id": "2307",
+        "name": "Domus Athletica",
+        "address": "Trimveien 4",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2307",
+          "ios": "oslobysykkel://stations/2307"
+        },
+        "lat": 59.946219381760216,
+        "lon": 10.724626314653563,
+        "capacity": 30
+      },
+      {
+        "station_id": "2306",
+        "name": "Økern Portal",
+        "address": "Lørenfaret 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2306",
+          "ios": "oslobysykkel://stations/2306"
+        },
+        "lat": 59.930903961728745,
+        "lon": 10.80193969590286,
+        "capacity": 18
+      },
+      {
+        "station_id": "2305",
+        "name": "Hesselbergs Gate",
+        "address": "Toftes Gate 24",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2305",
+          "ios": "oslobysykkel://stations/2305"
+        },
+        "lat": 59.92774803110845,
+        "lon": 10.761265771390583,
+        "capacity": 15
+      },
+      {
+        "station_id": "2304",
+        "name": "Hedmarksgata",
+        "address": "Elverumsgata - Hedmarksgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2304",
+          "ios": "oslobysykkel://stations/2304"
+        },
+        "lat": 59.91178403655783,
+        "lon": 10.783884345957915,
+        "capacity": 18
+      },
+      {
+        "station_id": "2280",
+        "name": "Klingenberggata",
+        "address": "Olav Vs Gate 5",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2280",
+          "ios": "oslobysykkel://stations/2280"
+        },
+        "lat": 59.913150534075015,
+        "lon": 10.732281291700133,
+        "capacity": 15
+      },
+      {
+        "station_id": "2270",
+        "name": "Lørenporten",
+        "address": "Lørenveien 63",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/2270",
+          "ios": "oslobysykkel://stations/2270"
+        },
+        "lat": 59.928710966693274,
+        "lon": 10.799914801820819,
+        "capacity": 20
+      },
+      {
+        "station_id": "1919",
+        "name": "Kværnerveien",
+        "address": "Kværnerveien 5",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/1919",
+          "ios": "oslobysykkel://stations/1919"
+        },
+        "lat": 59.90591083488326,
+        "lon": 10.778592132296495,
+        "capacity": 6
+      },
+      {
+        "station_id": "1755",
+        "name": "Aker Brygge",
+        "address": "Aker Brygge",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/1755",
+          "ios": "oslobysykkel://stations/1755"
+        },
+        "lat": 59.91118372188379,
+        "lon": 10.730034556850455,
+        "capacity": 33
+      },
+      {
+        "station_id": "1101",
+        "name": "Stortingstunellen",
+        "address": "Rådhusgata 34",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/1101",
+          "ios": "oslobysykkel://stations/1101"
+        },
+        "lat": 59.91065301806209,
+        "lon": 10.737365277561025,
+        "capacity": 24
+      },
+      {
+        "station_id": "1023",
+        "name": "Professor Aschehougs plass",
+        "address": "Professor Aschehougs plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/1023",
+          "ios": "oslobysykkel://stations/1023"
+        },
+        "lat": 59.9147672,
+        "lon": 10.740971,
+        "capacity": 15
+      },
+      {
+        "station_id": "1009",
+        "name": "Borgenveien",
+        "address": "Slemsdalsveien 70B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/1009",
+          "ios": "oslobysykkel://stations/1009"
+        },
+        "lat": 59.942742106473666,
+        "lon": 10.703833031254021,
+        "capacity": 10
+      },
+      {
+        "station_id": "970",
+        "name": "Enerhaugen",
+        "address": "Sørligata 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/970",
+          "ios": "oslobysykkel://stations/970"
+        },
+        "lat": 59.91320242563816,
+        "lon": 10.767579386407874,
+        "capacity": 25
+      },
+      {
+        "station_id": "787",
+        "name": "Kirkegata 15",
+        "address": "Kirkegata 15",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/787",
+          "ios": "oslobysykkel://stations/787"
+        },
+        "lat": 59.91015615055511,
+        "lon": 10.743456971511705,
+        "capacity": 12
+      },
+      {
+        "station_id": "627",
+        "name": "Skøyen Stasjon",
+        "address": "Skøyen Stasjon",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/627",
+          "ios": "oslobysykkel://stations/627"
+        },
+        "lat": 59.922723981014094,
+        "lon": 10.67862514536896,
+        "capacity": 30
+      },
+      {
+        "station_id": "623",
+        "name": "7. juni-plassen",
+        "address": "7. juni-plassen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/623",
+          "ios": "oslobysykkel://stations/623"
+        },
+        "lat": 59.9150596,
+        "lon": 10.7312715,
+        "capacity": 21
+      },
+      {
+        "station_id": "624",
+        "name": "Dælenenggata",
+        "address": "Dælenenggata 38",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/624",
+          "ios": "oslobysykkel://stations/624"
+        },
+        "lat": 59.9287502718149,
+        "lon": 10.767546377298158,
+        "capacity": 20
+      },
+      {
+        "station_id": "626",
+        "name": "Drammensveien",
+        "address": "Drammensveien 119",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/626",
+          "ios": "oslobysykkel://stations/626"
+        },
+        "lat": 59.9204038,
+        "lon": 10.691147,
+        "capacity": 24
+      },
+      {
+        "station_id": "614",
+        "name": "Sinsen T-bane",
+        "address": "Hans Nielsen Hauges gate 50",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/614",
+          "ios": "oslobysykkel://stations/614"
+        },
+        "lat": 59.938863086921295,
+        "lon": 10.780603250331886,
+        "capacity": 24
+      },
+      {
+        "station_id": "616",
+        "name": "Salt",
+        "address": "Salt ved Langkaia",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/616",
+          "ios": "oslobysykkel://stations/616"
+        },
+        "lat": 59.906922167198275,
+        "lon": 10.746530272588245,
+        "capacity": 15
+      },
+      {
+        "station_id": "618",
+        "name": "Bak Niels Treschows hus sør",
+        "address": "Problemveien P. A. Munchs Hus",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/618",
+          "ios": "oslobysykkel://stations/618"
+        },
+        "lat": 59.94247260310697,
+        "lon": 10.723715245368956,
+        "capacity": 42
+      },
+      {
+        "station_id": "621",
+        "name": "Torshovdalen øst",
+        "address": "Torshovdalen øst",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/621",
+          "ios": "oslobysykkel://stations/621"
+        },
+        "lat": 59.93285662158759,
+        "lon": 10.777633472422016,
+        "capacity": 27
+      },
+      {
+        "station_id": "622",
+        "name": "Pilestredet 63",
+        "address": "Pilestredet 63",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/622",
+          "ios": "oslobysykkel://stations/622"
+        },
+        "lat": 59.9238826,
+        "lon": 10.7313627,
+        "capacity": 30
+      },
+      {
+        "station_id": "613",
+        "name": "Schives gate",
+        "address": "Schives gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/613",
+          "ios": "oslobysykkel://stations/613"
+        },
+        "lat": 59.92095635370271,
+        "lon": 10.714055629614734,
+        "capacity": 27
+      },
+      {
+        "station_id": "620",
+        "name": "Bislettgata",
+        "address": "Bislettgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/620",
+          "ios": "oslobysykkel://stations/620"
+        },
+        "lat": 59.92377440938114,
+        "lon": 10.734712874574,
+        "capacity": 40
+      },
+      {
+        "station_id": "596",
+        "name": "Idioten",
+        "address": "Ullevålsveien 79",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/596",
+          "ios": "oslobysykkel://stations/596"
+        },
+        "lat": 59.931020132184614,
+        "lon": 10.736036647971048,
+        "capacity": 18
+      },
+      {
+        "station_id": "617",
+        "name": "Bjerregaardsgate Øst",
+        "address": "Bjerregaardsgate 68",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/617",
+          "ios": "oslobysykkel://stations/617"
+        },
+        "lat": 59.92716771401357,
+        "lon": 10.749754560118863,
+        "capacity": 21
+      },
+      {
+        "station_id": "609",
+        "name": "Fred Olsens gate",
+        "address": "Fred Olsens gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/609",
+          "ios": "oslobysykkel://stations/609"
+        },
+        "lat": 59.9110506,
+        "lon": 10.7493737,
+        "capacity": 27
+      },
+      {
+        "station_id": "607",
+        "name": "Marcus Thranes gate",
+        "address": "Marcus Thranes gate 6",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/607",
+          "ios": "oslobysykkel://stations/607"
+        },
+        "lat": 59.93277225626508,
+        "lon": 10.758594919923468,
+        "capacity": 30
+      },
+      {
+        "station_id": "603",
+        "name": "Frogner plass",
+        "address": "Frognerveien 58",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/603",
+          "ios": "oslobysykkel://stations/603"
+        },
+        "lat": 59.9225392,
+        "lon": 10.7045406,
+        "capacity": 18
+      },
+      {
+        "station_id": "590",
+        "name": "Majorstua skole",
+        "address": "Majorstua skole",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/590",
+          "ios": "oslobysykkel://stations/590"
+        },
+        "lat": 59.9294351,
+        "lon": 10.7136816,
+        "capacity": 40
+      },
+      {
+        "station_id": "610",
+        "name": "Sotahjørnet",
+        "address": "Sotahjørnet",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/610",
+          "ios": "oslobysykkel://stations/610"
+        },
+        "lat": 59.9099822,
+        "lon": 10.7914482,
+        "capacity": 20
+      },
+      {
+        "station_id": "608",
+        "name": "Colletts gate",
+        "address": "Colletts/Diriks gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/608",
+          "ios": "oslobysykkel://stations/608"
+        },
+        "lat": 59.93068679863987,
+        "lon": 10.746273349149249,
+        "capacity": 21
+      },
+      {
+        "station_id": "593",
+        "name": "Bjølsen mølle",
+        "address": "Sandakerveien 51",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/593",
+          "ios": "oslobysykkel://stations/593"
+        },
+        "lat": 59.9392403070359,
+        "lon": 10.768771317790996,
+        "capacity": 30
+      },
+      {
+        "station_id": "530",
+        "name": "Holbergs plass",
+        "address": "Holbergs Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/530",
+          "ios": "oslobysykkel://stations/530"
+        },
+        "lat": 59.9193095,
+        "lon": 10.7343051,
+        "capacity": 10
+      },
+      {
+        "station_id": "463",
+        "name": "Schous plass trikkestopp",
+        "address": "Schous plass trikkestopp",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/463",
+          "ios": "oslobysykkel://stations/463"
+        },
+        "lat": 59.9207284,
+        "lon": 10.7594857,
+        "capacity": 20
+      },
+      {
+        "station_id": "475",
+        "name": "Hausmanns bru",
+        "address": "Hausmanns bru",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/475",
+          "ios": "oslobysykkel://stations/475"
+        },
+        "lat": 59.9146509,
+        "lon": 10.7598719,
+        "capacity": 24
+      },
+      {
+        "station_id": "439",
+        "name": "Mølleparken",
+        "address": "Mølleparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/439",
+          "ios": "oslobysykkel://stations/439"
+        },
+        "lat": 59.9283928,
+        "lon": 10.7559693,
+        "capacity": 25
+      },
+      {
+        "station_id": "600",
+        "name": "Dyvekes bru",
+        "address": "St Halvards gate 13B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/600",
+          "ios": "oslobysykkel://stations/600"
+        },
+        "lat": 59.905323,
+        "lon": 10.7689579,
+        "capacity": 12
+      },
+      {
+        "station_id": "440",
+        "name": "Lakkegata",
+        "address": "Lakkegata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/440",
+          "ios": "oslobysykkel://stations/440"
+        },
+        "lat": 59.9172088,
+        "lon": 10.7622135,
+        "capacity": 18
+      },
+      {
+        "station_id": "612",
+        "name": "Ensjøveien",
+        "address": "Ensjøveien 6A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/612",
+          "ios": "oslobysykkel://stations/612"
+        },
+        "lat": 59.91662195885618,
+        "lon": 10.783309055819714,
+        "capacity": 19
+      },
+      {
+        "station_id": "491",
+        "name": "Brugata",
+        "address": "Brugata 17",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/491",
+          "ios": "oslobysykkel://stations/491"
+        },
+        "lat": 59.91366109486603,
+        "lon": 10.75729364846211,
+        "capacity": 18
+      },
+      {
+        "station_id": "493",
+        "name": "Sofienbergparken nordvest",
+        "address": "Helgesens Gate 26A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/493",
+          "ios": "oslobysykkel://stations/493"
+        },
+        "lat": 59.9243639,
+        "lon": 10.7615858,
+        "capacity": 30
+      },
+      {
+        "station_id": "410",
+        "name": "Landstads gate",
+        "address": "Circle K Kiellands",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/410",
+          "ios": "oslobysykkel://stations/410"
+        },
+        "lat": 59.929005,
+        "lon": 10.7496755,
+        "capacity": 27
+      },
+      {
+        "station_id": "388",
+        "name": "Skovveien",
+        "address": "Skovveien ved Frognerveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/388",
+          "ios": "oslobysykkel://stations/388"
+        },
+        "lat": 59.9163309,
+        "lon": 10.716349,
+        "capacity": 18
+      },
+      {
+        "station_id": "591",
+        "name": "Grenseveien",
+        "address": "Grenseveien 19",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/591",
+          "ios": "oslobysykkel://stations/591"
+        },
+        "lat": 59.92464487862039,
+        "lon": 10.781726510450724,
+        "capacity": 24
+      },
+      {
+        "station_id": "592",
+        "name": "Badebakken",
+        "address": "Maridalsveien 244C",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/592",
+          "ios": "oslobysykkel://stations/592"
+        },
+        "lat": 59.94558091179507,
+        "lon": 10.760323881579982,
+        "capacity": 18
+      },
+      {
+        "station_id": "585",
+        "name": "Nordre gate",
+        "address": "Nedre gate 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/585",
+          "ios": "oslobysykkel://stations/585"
+        },
+        "lat": 59.92114988507087,
+        "lon": 10.754714015938562,
+        "capacity": 18
+      },
+      {
+        "station_id": "565",
+        "name": "Mailundveien",
+        "address": "Mailundveien - Rosenhoffgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/565",
+          "ios": "oslobysykkel://stations/565"
+        },
+        "lat": 59.9309181,
+        "lon": 10.7728203,
+        "capacity": 18
+      },
+      {
+        "station_id": "571",
+        "name": "Over Rådhusgata",
+        "address": "Nedre Slottsgate 4",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/571",
+          "ios": "oslobysykkel://stations/571"
+        },
+        "lat": 59.9101207,
+        "lon": 10.7407129,
+        "capacity": 21
+      },
+      {
+        "station_id": "568",
+        "name": "Frognerveien",
+        "address": "Frognerveien 15",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/568",
+          "ios": "oslobysykkel://stations/568"
+        },
+        "lat": 59.9170851,
+        "lon": 10.7128796,
+        "capacity": 15
+      },
+      {
+        "station_id": "588",
+        "name": "Meltzers gate",
+        "address": "Meltzers gate ved Skovveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/588",
+          "ios": "oslobysykkel://stations/588"
+        },
+        "lat": 59.9180141,
+        "lon": 10.7184345,
+        "capacity": 21
+      },
+      {
+        "station_id": "584",
+        "name": "Henrik Wergelands allé",
+        "address": "Henrik Wergelands alle",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/584",
+          "ios": "oslobysykkel://stations/584"
+        },
+        "lat": 59.9268942,
+        "lon": 10.7207894,
+        "capacity": 35
+      },
+      {
+        "station_id": "569",
+        "name": "Botanisk hage sør-vest",
+        "address": "Sars gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/569",
+          "ios": "oslobysykkel://stations/569"
+        },
+        "lat": 59.91783548782385,
+        "lon": 10.766373769557958,
+        "capacity": 30
+      },
+      {
+        "station_id": "577",
+        "name": "Arkaden Nord",
+        "address": "Dronningens gate ved Arkaden II",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/577",
+          "ios": "oslobysykkel://stations/577"
+        },
+        "lat": 59.9121472,
+        "lon": 10.7480527,
+        "capacity": 30
+      },
+      {
+        "station_id": "564",
+        "name": "Oscars gate",
+        "address": "Oscars gate - Hegdehaugsveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/564",
+          "ios": "oslobysykkel://stations/564"
+        },
+        "lat": 59.9224222,
+        "lon": 10.7272388,
+        "capacity": 30
+      },
+      {
+        "station_id": "570",
+        "name": "Frøen T-bane",
+        "address": "Slemdalsveien 28",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/570",
+          "ios": "oslobysykkel://stations/570"
+        },
+        "lat": 59.9347352,
+        "lon": 10.7096985,
+        "capacity": 15
+      },
+      {
+        "station_id": "572",
+        "name": "Skøyen",
+        "address": "Skøyen (under bro)",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/572",
+          "ios": "oslobysykkel://stations/572"
+        },
+        "lat": 59.92226850808104,
+        "lon": 10.679579749668129,
+        "capacity": 40
+      },
+      {
+        "station_id": "587",
+        "name": "Riddervoldplass",
+        "address": "Riddervoldplass , Camilla Colletts vei",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/587",
+          "ios": "oslobysykkel://stations/587"
+        },
+        "lat": 59.9191421,
+        "lon": 10.7196414,
+        "capacity": 15
+      },
+      {
+        "station_id": "586",
+        "name": "Københavngata busstopp",
+        "address": "Københavngata busstopp",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/586",
+          "ios": "oslobysykkel://stations/586"
+        },
+        "lat": 59.9294565845173,
+        "lon": 10.769121495700826,
+        "capacity": 27
+      },
+      {
+        "station_id": "576",
+        "name": "Dronningens gate",
+        "address": "Dronningens gate 25",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/576",
+          "ios": "oslobysykkel://stations/576"
+        },
+        "lat": 59.911392299457006,
+        "lon": 10.747281829592453,
+        "capacity": 18
+      },
+      {
+        "station_id": "602",
+        "name": "Jarlsborgveien",
+        "address": "Jarlsborgveien- Hoffsveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/602",
+          "ios": "oslobysykkel://stations/602"
+        },
+        "lat": 59.9304645,
+        "lon": 10.6757833,
+        "capacity": 18
+      },
+      {
+        "station_id": "575",
+        "name": "Sognsveien",
+        "address": "Sognsveien ved Ullevål T-bane",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/575",
+          "ios": "oslobysykkel://stations/575"
+        },
+        "lat": 59.94743324225673,
+        "lon": 10.732569703704815,
+        "capacity": 30
+      },
+      {
+        "station_id": "567",
+        "name": "Forskningsveien",
+        "address": "Forskningsveien 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/567",
+          "ios": "oslobysykkel://stations/567"
+        },
+        "lat": 59.945450633702556,
+        "lon": 10.713867957672134,
+        "capacity": 39
+      },
+      {
+        "station_id": "582",
+        "name": "Stavangergata",
+        "address": "Stavangergata 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/582",
+          "ios": "oslobysykkel://stations/582"
+        },
+        "lat": 59.94114763297182,
+        "lon": 10.750775120272449,
+        "capacity": 30
+      },
+      {
+        "station_id": "595",
+        "name": "Skarpsnoparken",
+        "address": "Skarpsnoparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/595",
+          "ios": "oslobysykkel://stations/595"
+        },
+        "lat": 59.914871,
+        "lon": 10.701037,
+        "capacity": 24
+      },
+      {
+        "station_id": "542",
+        "name": "Grünerhagen Nord",
+        "address": "Sofienberggata 2B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/542",
+          "ios": "oslobysykkel://stations/542"
+        },
+        "lat": 59.9224256,
+        "lon": 10.7554274,
+        "capacity": 20
+      },
+      {
+        "station_id": "563",
+        "name": "Huitfeldts gate",
+        "address": "Huitfeldts gate 24",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/563",
+          "ios": "oslobysykkel://stations/563"
+        },
+        "lat": 59.9126844,
+        "lon": 10.7229003,
+        "capacity": 18
+      },
+      {
+        "station_id": "558",
+        "name": "Dokkveien",
+        "address": "Dokkveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/558",
+          "ios": "oslobysykkel://stations/558"
+        },
+        "lat": 59.910974,
+        "lon": 10.7277001,
+        "capacity": 15
+      },
+      {
+        "station_id": "552",
+        "name": "Trelastgata",
+        "address": "Trelastgata 21",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/552",
+          "ios": "oslobysykkel://stations/552"
+        },
+        "lat": 59.908004655328924,
+        "lon": 10.7625700380287,
+        "capacity": 18
+      },
+      {
+        "station_id": "555",
+        "name": "Griffenfeldts gate",
+        "address": "Colletts gate 64",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/555",
+          "ios": "oslobysykkel://stations/555"
+        },
+        "lat": 59.9337026,
+        "lon": 10.7519299,
+        "capacity": 15
+      },
+      {
+        "station_id": "573",
+        "name": "Tordenskiolds gate",
+        "address": "Tordenskiolds gate 12",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/573",
+          "ios": "oslobysykkel://stations/573"
+        },
+        "lat": 59.911776299209265,
+        "lon": 10.735113005880237,
+        "capacity": 24
+      },
+      {
+        "station_id": "561",
+        "name": "Kirkeveien",
+        "address": "Kirkeveien 106A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/561",
+          "ios": "oslobysykkel://stations/561"
+        },
+        "lat": 59.93347989334691,
+        "lon": 10.726294394131088,
+        "capacity": 24
+      },
+      {
+        "station_id": "615",
+        "name": "Munkedamsveien",
+        "address": "Konserthuset/Munkedamsveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/615",
+          "ios": "oslobysykkel://stations/615"
+        },
+        "lat": 59.9135227,
+        "lon": 10.7301061,
+        "capacity": 21
+      },
+      {
+        "station_id": "543",
+        "name": "Fyrstikktorget",
+        "address": "Grensesvingen 7",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/543",
+          "ios": "oslobysykkel://stations/543"
+        },
+        "lat": 59.91381587564694,
+        "lon": 10.798093360118871,
+        "capacity": 20
+      },
+      {
+        "station_id": "554",
+        "name": "Tåsen Senter",
+        "address": "Tåsen senter ved rundkjøring",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/554",
+          "ios": "oslobysykkel://stations/554"
+        },
+        "lat": 59.952659,
+        "lon": 10.751165,
+        "capacity": 21
+      },
+      {
+        "station_id": "574",
+        "name": "Annette Thommessens Plass",
+        "address": "Annette Thommesens Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/574",
+          "ios": "oslobysykkel://stations/574"
+        },
+        "lat": 59.9107393,
+        "lon": 10.7609998,
+        "capacity": 12
+      },
+      {
+        "station_id": "560",
+        "name": "Gaustad T-bane",
+        "address": "Gaustad T-bane",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/560",
+          "ios": "oslobysykkel://stations/560"
+        },
+        "lat": 59.945955,
+        "lon": 10.710392,
+        "capacity": 9
+      },
+      {
+        "station_id": "548",
+        "name": "Colbjørnsens gate",
+        "address": "Colbjørnsens gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/548",
+          "ios": "oslobysykkel://stations/548"
+        },
+        "lat": 59.91731888534716,
+        "lon": 10.716909039918278,
+        "capacity": 18
+      },
+      {
+        "station_id": "559",
+        "name": "Hoffsveien",
+        "address": "Hoffsveien 1E",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/559",
+          "ios": "oslobysykkel://stations/559"
+        },
+        "lat": 59.923898,
+        "lon": 10.6760339,
+        "capacity": 18
+      },
+      {
+        "station_id": "545",
+        "name": "Arkaden Sør",
+        "address": "Dronningens gate ved Arkaden",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/545",
+          "ios": "oslobysykkel://stations/545"
+        },
+        "lat": 59.9119691,
+        "lon": 10.7478583,
+        "capacity": 39
+      },
+      {
+        "station_id": "550",
+        "name": "Thereses gate",
+        "address": "Therese's gate 49",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/550",
+          "ios": "oslobysykkel://stations/550"
+        },
+        "lat": 59.9261462,
+        "lon": 10.7310355,
+        "capacity": 9
+      },
+      {
+        "station_id": "541",
+        "name": "Langkaia",
+        "address": "rådhusgata / langkaia",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/541",
+          "ios": "oslobysykkel://stations/541"
+        },
+        "lat": 59.9080552,
+        "lon": 10.7479977,
+        "capacity": 12
+      },
+      {
+        "station_id": "527",
+        "name": "Biskop Gunnerus' gate",
+        "address": "Oslo City - Biskop Gunnerus gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/527",
+          "ios": "oslobysykkel://stations/527"
+        },
+        "lat": 59.9123341,
+        "lon": 10.752292,
+        "capacity": 12
+      },
+      {
+        "station_id": "529",
+        "name": "Friggfeltet",
+        "address": "Slemdalsveien ved Frigg",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/529",
+          "ios": "oslobysykkel://stations/529"
+        },
+        "lat": 59.9327726,
+        "lon": 10.7114661,
+        "capacity": 21
+      },
+      {
+        "station_id": "549",
+        "name": "Linaaes gate",
+        "address": "Møllergata 3",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/549",
+          "ios": "oslobysykkel://stations/549"
+        },
+        "lat": 59.91382393242077,
+        "lon": 10.745704482209018,
+        "capacity": 21
+      },
+      {
+        "station_id": "526",
+        "name": "Lille Grensen",
+        "address": "Lille Grensen - Akersgata 43",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/526",
+          "ios": "oslobysykkel://stations/526"
+        },
+        "lat": 59.9138973,
+        "lon": 10.7423101,
+        "capacity": 15
+      },
+      {
+        "station_id": "537",
+        "name": "St. Olavs gate",
+        "address": "St.Olavs gate 21 - Pilestredet",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/537",
+          "ios": "oslobysykkel://stations/537"
+        },
+        "lat": 59.9179676629428,
+        "lon": 10.738628884264756,
+        "capacity": 20
+      },
+      {
+        "station_id": "547",
+        "name": "Skippergata",
+        "address": "Skippergata - Karl Johans gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/547",
+          "ios": "oslobysykkel://stations/547"
+        },
+        "lat": 59.9112227,
+        "lon": 10.7481976,
+        "capacity": 30
+      },
+      {
+        "station_id": "601",
+        "name": "Rolf Wickstrøms vei",
+        "address": "Rolf Wickstrøms vei, Bergrådveien 13",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/601",
+          "ios": "oslobysykkel://stations/601"
+        },
+        "lat": 59.9534114,
+        "lon": 10.7577241,
+        "capacity": 20
+      },
+      {
+        "station_id": "533",
+        "name": "Sørvest for Slottsparken",
+        "address": "Henrik Ibsens gate 40",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/533",
+          "ios": "oslobysykkel://stations/533"
+        },
+        "lat": 59.915262,
+        "lon": 10.7253157,
+        "capacity": 12
+      },
+      {
+        "station_id": "535",
+        "name": "Uranienborgveien",
+        "address": "Uranienborgveien 3",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/535",
+          "ios": "oslobysykkel://stations/535"
+        },
+        "lat": 59.9200421,
+        "lon": 10.726634,
+        "capacity": 27
+      },
+      {
+        "station_id": "524",
+        "name": "Volvat",
+        "address": "Sørkedalsveien 33",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/524",
+          "ios": "oslobysykkel://stations/524"
+        },
+        "lat": 59.9330870371029,
+        "lon": 10.703967938028702,
+        "capacity": 21
+      },
+      {
+        "station_id": "519",
+        "name": "Thomas Heftyes plass",
+        "address": "Bygdøy alle/Elisenbergveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/519",
+          "ios": "oslobysykkel://stations/519"
+        },
+        "lat": 59.918578143336774,
+        "lon": 10.703899530059402,
+        "capacity": 24
+      },
+      {
+        "station_id": "534",
+        "name": "Filipstadveien",
+        "address": "Filipstadveien El-bilparkering/busslomme",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/534",
+          "ios": "oslobysykkel://stations/534"
+        },
+        "lat": 59.9102277,
+        "lon": 10.7208788,
+        "capacity": 39
+      },
+      {
+        "station_id": "521",
+        "name": "Jess Carlsens gate",
+        "address": "Jess Carlsens gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/521",
+          "ios": "oslobysykkel://stations/521"
+        },
+        "lat": 59.9186359,
+        "lon": 10.7523939,
+        "capacity": 15
+      },
+      {
+        "station_id": "518",
+        "name": "Ullevålsveien",
+        "address": "Ullevålsveien 47 - Schwenssens gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/518",
+          "ios": "oslobysykkel://stations/518"
+        },
+        "lat": 59.9246852,
+        "lon": 10.7395045,
+        "capacity": 18
+      },
+      {
+        "station_id": "556",
+        "name": "Pilestredet",
+        "address": "Pilestredet 75",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/556",
+          "ios": "oslobysykkel://stations/556"
+        },
+        "lat": 59.9262242,
+        "lon": 10.7296246,
+        "capacity": 18
+      },
+      {
+        "station_id": "525",
+        "name": "Myraløkka Øst",
+        "address": "Arendalsgata 45",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/525",
+          "ios": "oslobysykkel://stations/525"
+        },
+        "lat": 59.937205,
+        "lon": 10.7605813,
+        "capacity": 15
+      },
+      {
+        "station_id": "523",
+        "name": "Tøyenbekken",
+        "address": "Tøyenbekken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/523",
+          "ios": "oslobysykkel://stations/523"
+        },
+        "lat": 59.9115945,
+        "lon": 10.7617736,
+        "capacity": 30
+      },
+      {
+        "station_id": "522",
+        "name": "Mandalls gate",
+        "address": "Mandalls gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/522",
+          "ios": "oslobysykkel://stations/522"
+        },
+        "lat": 59.9123469,
+        "lon": 10.7638147,
+        "capacity": 10
+      },
+      {
+        "station_id": "594",
+        "name": "Kampen park Øst",
+        "address": "Kampen park øst",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/594",
+          "ios": "oslobysykkel://stations/594"
+        },
+        "lat": 59.915182,
+        "lon": 10.782129,
+        "capacity": 21
+      },
+      {
+        "station_id": "532",
+        "name": "Brynseng T-bane",
+        "address": "Østensjøveien 47",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/532",
+          "ios": "oslobysykkel://stations/532"
+        },
+        "lat": 59.90918420865812,
+        "lon": 10.81431433498766,
+        "capacity": 21
+      },
+      {
+        "station_id": "509",
+        "name": "Kjeld Stubs gate",
+        "address": "Kjeld Stubs gate 3",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/509",
+          "ios": "oslobysykkel://stations/509"
+        },
+        "lat": 59.912711,
+        "lon": 10.735595,
+        "capacity": 12
+      },
+      {
+        "station_id": "531",
+        "name": "Monolittveien",
+        "address": "Smestaddammen (Monolittveien/Hoffsveien)",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/531",
+          "ios": "oslobysykkel://stations/531"
+        },
+        "lat": 59.935947,
+        "lon": 10.681138,
+        "capacity": 18
+      },
+      {
+        "station_id": "562",
+        "name": "Slottsparken Øst",
+        "address": "Wergelandsveien / St Olavs gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/562",
+          "ios": "oslobysykkel://stations/562"
+        },
+        "lat": 59.917485,
+        "lon": 10.732128,
+        "capacity": 40
+      },
+      {
+        "station_id": "508",
+        "name": "Majorstuen T-bane",
+        "address": "Majorstuen t-bane",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/508",
+          "ios": "oslobysykkel://stations/508"
+        },
+        "lat": 59.92985724219502,
+        "lon": 10.714566236770679,
+        "capacity": 18
+      },
+      {
+        "station_id": "511",
+        "name": "Henrik Ibsens gate",
+        "address": "Parkveien / Henrik Ibsens gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/511",
+          "ios": "oslobysykkel://stations/511"
+        },
+        "lat": 59.915088,
+        "lon": 10.7222803,
+        "capacity": 24
+      },
+      {
+        "station_id": "505",
+        "name": "Marienlystparken",
+        "address": "Marienlyst / Kirkeveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/505",
+          "ios": "oslobysykkel://stations/505"
+        },
+        "lat": 59.93215,
+        "lon": 10.723478,
+        "capacity": 24
+      },
+      {
+        "station_id": "501",
+        "name": "Krebs' gate",
+        "address": "Vogstgate 60",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/501",
+          "ios": "oslobysykkel://stations/501"
+        },
+        "lat": 59.935995,
+        "lon": 10.765413,
+        "capacity": 18
+      },
+      {
+        "station_id": "514",
+        "name": "Sofienberggata",
+        "address": "Trondheimsveien 37",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/514",
+          "ios": "oslobysykkel://stations/514"
+        },
+        "lat": 59.9212063,
+        "lon": 10.7699892,
+        "capacity": 12
+      },
+      {
+        "station_id": "500",
+        "name": "Anker Hotel",
+        "address": "Storgata 57 Anker Hotell",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/500",
+          "ios": "oslobysykkel://stations/500"
+        },
+        "lat": 59.9172794,
+        "lon": 10.7581553,
+        "capacity": 12
+      },
+      {
+        "station_id": "503",
+        "name": "Fagerheimgata",
+        "address": "Fagerheimgata 8",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/503",
+          "ios": "oslobysykkel://stations/503"
+        },
+        "lat": 59.927605868377185,
+        "lon": 10.76598469881135,
+        "capacity": 33
+      },
+      {
+        "station_id": "513",
+        "name": "Bøkkerveien",
+        "address": "Bøkkerveien 11 ved Cafe Nord",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/513",
+          "ios": "oslobysykkel://stations/513"
+        },
+        "lat": 59.9273747,
+        "lon": 10.7960147,
+        "capacity": 15
+      },
+      {
+        "station_id": "498",
+        "name": "HasleLinje",
+        "address": "Kavresvingen 3",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/498",
+          "ios": "oslobysykkel://stations/498"
+        },
+        "lat": 59.92763407981436,
+        "lon": 10.799249379762283,
+        "capacity": 18
+      },
+      {
+        "station_id": "507",
+        "name": "Jens Bjelkes Gate",
+        "address": "Jens Bjelkes gate / Trondheimsveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/507",
+          "ios": "oslobysykkel://stations/507"
+        },
+        "lat": 59.91914743024347,
+        "lon": 10.76412958416006,
+        "capacity": 20
+      },
+      {
+        "station_id": "512",
+        "name": "Ensjø T-bane",
+        "address": "Ensjøveien 22",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/512",
+          "ios": "oslobysykkel://stations/512"
+        },
+        "lat": 59.9131891,
+        "lon": 10.7897605,
+        "capacity": 30
+      },
+      {
+        "station_id": "502",
+        "name": "Ullevål sykehus",
+        "address": "Kirkeveien 166 / Ullevål sykehus",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/502",
+          "ios": "oslobysykkel://stations/502"
+        },
+        "lat": 59.9360307,
+        "lon": 10.7364516,
+        "capacity": 35
+      },
+      {
+        "station_id": "619",
+        "name": "Bak Niels Treschows hus nord",
+        "address": "Problemveien P. A. Munchs Hus",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/619",
+          "ios": "oslobysykkel://stations/619"
+        },
+        "lat": 59.942780248542554,
+        "lon": 10.722993731144015,
+        "capacity": 42
+      },
+      {
+        "station_id": "474",
+        "name": "Blindern studentparkering",
+        "address": "Blindern studentparkering",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/474",
+          "ios": "oslobysykkel://stations/474"
+        },
+        "lat": 59.940873733543725,
+        "lon": 10.720778851520523,
+        "capacity": 42
+      },
+      {
+        "station_id": "580",
+        "name": "Georg Morgenstiernes hus",
+        "address": "Moltke Moes vei 37",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/580",
+          "ios": "oslobysykkel://stations/580"
+        },
+        "lat": 59.939025551395765,
+        "lon": 10.723002619643406,
+        "capacity": 45
+      },
+      {
+        "station_id": "496",
+        "name": "Fysikkbygningen",
+        "address": "Blindern Fysikkbygg parkering",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/496",
+          "ios": "oslobysykkel://stations/496"
+        },
+        "lat": 59.937957367051965,
+        "lon": 10.719488529430388,
+        "capacity": 45
+      },
+      {
+        "station_id": "482",
+        "name": "Nydalen",
+        "address": "Gjerdrumsvei 6",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/482",
+          "ios": "oslobysykkel://stations/482"
+        },
+        "lat": 59.952868,
+        "lon": 10.766483,
+        "capacity": 18
+      },
+      {
+        "station_id": "407",
+        "name": "Sagene bussholdeplass",
+        "address": "Sagene bussholdeplass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/407",
+          "ios": "oslobysykkel://stations/407"
+        },
+        "lat": 59.937743,
+        "lon": 10.751648,
+        "capacity": 15
+      },
+      {
+        "station_id": "409",
+        "name": "John Colletts plass",
+        "address": "Sognsveien 16",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/409",
+          "ios": "oslobysykkel://stations/409"
+        },
+        "lat": 59.940398,
+        "lon": 10.730036,
+        "capacity": 25
+      },
+      {
+        "station_id": "451",
+        "name": "Suhms gate",
+        "address": "Suhms gate 1A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/451",
+          "ios": "oslobysykkel://stations/451"
+        },
+        "lat": 59.929419,
+        "lon": 10.726195,
+        "capacity": 21
+      },
+      {
+        "station_id": "385",
+        "name": "Søndre gate",
+        "address": "Søndre gate 6",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/385",
+          "ios": "oslobysykkel://stations/385"
+        },
+        "lat": 59.918632,
+        "lon": 10.757867,
+        "capacity": 21
+      },
+      {
+        "station_id": "402",
+        "name": "Lørenveien",
+        "address": "Lørenveien 41e",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/402",
+          "ios": "oslobysykkel://stations/402"
+        },
+        "lat": 59.93087712510462,
+        "lon": 10.791823716034969,
+        "capacity": 21
+      },
+      {
+        "station_id": "516",
+        "name": "Finnmarksgata",
+        "address": "Finnmarksgata 40",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/516",
+          "ios": "oslobysykkel://stations/516"
+        },
+        "lat": 59.922839,
+        "lon": 10.775658,
+        "capacity": 15
+      },
+      {
+        "station_id": "625",
+        "name": "Spikersuppa Øst",
+        "address": "spikersuppa",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/625",
+          "ios": "oslobysykkel://stations/625"
+        },
+        "lat": 59.91336,
+        "lon": 10.737663,
+        "capacity": 42
+      },
+      {
+        "station_id": "429",
+        "name": "Thune",
+        "address": "Thune ved bomring",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/429",
+          "ios": "oslobysykkel://stations/429"
+        },
+        "lat": 59.92208,
+        "lon": 10.68588,
+        "capacity": 21
+      },
+      {
+        "station_id": "380",
+        "name": "Bentsebrugata",
+        "address": "Bentsebrugata 29b",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/380",
+          "ios": "oslobysykkel://stations/380"
+        },
+        "lat": 59.93923,
+        "lon": 10.75917,
+        "capacity": 24
+      },
+      {
+        "station_id": "583",
+        "name": "Galgeberg",
+        "address": "St Halvards gate 57A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/583",
+          "ios": "oslobysykkel://stations/583"
+        },
+        "lat": 59.90707579234818,
+        "lon": 10.779164402446728,
+        "capacity": 18
+      },
+      {
+        "station_id": "398",
+        "name": "Ringnes Park",
+        "address": "Sannergata 6A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/398",
+          "ios": "oslobysykkel://stations/398"
+        },
+        "lat": 59.92843404417577,
+        "lon": 10.75943014633117,
+        "capacity": 18
+      },
+      {
+        "station_id": "381",
+        "name": "Grønlands torg",
+        "address": "Grønlands torg",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/381",
+          "ios": "oslobysykkel://stations/381"
+        },
+        "lat": 59.91252,
+        "lon": 10.76224,
+        "capacity": 15
+      },
+      {
+        "station_id": "464",
+        "name": "Sukkerbiten",
+        "address": "sukkerbiten",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/464",
+          "ios": "oslobysykkel://stations/464"
+        },
+        "lat": 59.905124380703484,
+        "lon": 10.753763553726515,
+        "capacity": 35
+      },
+      {
+        "station_id": "442",
+        "name": "Vulkan",
+        "address": "Vulkan 26",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/442",
+          "ios": "oslobysykkel://stations/442"
+        },
+        "lat": 59.92251,
+        "lon": 10.75101,
+        "capacity": 18
+      },
+      {
+        "station_id": "483",
+        "name": "Hausmanns gate",
+        "address": "Hausmanns gate / Røde Kors",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/483",
+          "ios": "oslobysykkel://stations/483"
+        },
+        "lat": 59.915451,
+        "lon": 10.758328,
+        "capacity": 21
+      },
+      {
+        "station_id": "458",
+        "name": "Jenny Braatens Plass",
+        "address": "Trondheimsveien 135",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/458",
+          "ios": "oslobysykkel://stations/458"
+        },
+        "lat": 59.928349,
+        "lon": 10.77837,
+        "capacity": 15
+      },
+      {
+        "station_id": "499",
+        "name": "Bjerregaards gate",
+        "address": "Bjerregaards gate 52-32",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/499",
+          "ios": "oslobysykkel://stations/499"
+        },
+        "lat": 59.925488,
+        "lon": 10.746058,
+        "capacity": 21
+      },
+      {
+        "station_id": "472",
+        "name": "Arendalsgata",
+        "address": "Arendalsgata / Sagene Kirke",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/472",
+          "ios": "oslobysykkel://stations/472"
+        },
+        "lat": 59.9378,
+        "lon": 10.7541,
+        "capacity": 24
+      },
+      {
+        "station_id": "506",
+        "name": "Botanisk Hage vest",
+        "address": "Botanisk Hage vest",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/506",
+          "ios": "oslobysykkel://stations/506"
+        },
+        "lat": 59.92012811804052,
+        "lon": 10.768875408563598,
+        "capacity": 27
+      },
+      {
+        "station_id": "465",
+        "name": "Bjørvika",
+        "address": "Dronning Eufemias gate 8",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/465",
+          "ios": "oslobysykkel://stations/465"
+        },
+        "lat": 59.909006,
+        "lon": 10.75618,
+        "capacity": 30
+      },
+      {
+        "station_id": "611",
+        "name": "Bankplassen",
+        "address": "Bankplassen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/611",
+          "ios": "oslobysykkel://stations/611"
+        },
+        "lat": 59.908454,
+        "lon": 10.741869,
+        "capacity": 39
+      },
+      {
+        "station_id": "404",
+        "name": "Oslo Handelsgymnasium",
+        "address": "Solligata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/404",
+          "ios": "oslobysykkel://stations/404"
+        },
+        "lat": 59.914306,
+        "lon": 10.720202,
+        "capacity": 27
+      },
+      {
+        "station_id": "579",
+        "name": "Bogstadveien",
+        "address": "Bogstadveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/579",
+          "ios": "oslobysykkel://stations/579"
+        },
+        "lat": 59.924732,
+        "lon": 10.724628,
+        "capacity": 18
+      },
+      {
+        "station_id": "589",
+        "name": "Huk 1",
+        "address": "Huk",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/589",
+          "ios": "oslobysykkel://stations/589"
+        },
+        "lat": 59.89853221724158,
+        "lon": 10.674403950323182,
+        "capacity": 27
+      },
+      {
+        "station_id": "434",
+        "name": "Lindern",
+        "address": "Kirkeveien 165",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/434",
+          "ios": "oslobysykkel://stations/434"
+        },
+        "lat": 59.9358883,
+        "lon": 10.7350062,
+        "capacity": 21
+      },
+      {
+        "station_id": "462",
+        "name": "Stensparken",
+        "address": "Sporveisgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/462",
+          "ios": "oslobysykkel://stations/462"
+        },
+        "lat": 59.92714,
+        "lon": 10.730981,
+        "capacity": 15
+      },
+      {
+        "station_id": "578",
+        "name": "Hallings gate",
+        "address": "Hallings gate 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/578",
+          "ios": "oslobysykkel://stations/578"
+        },
+        "lat": 59.922777,
+        "lon": 10.738655,
+        "capacity": 24
+      },
+      {
+        "station_id": "415",
+        "name": "Sinsenveien",
+        "address": "Sinsenveien ",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/415",
+          "ios": "oslobysykkel://stations/415"
+        },
+        "lat": 59.929542,
+        "lon": 10.781053,
+        "capacity": 12
+      },
+      {
+        "station_id": "423",
+        "name": "Schous plass",
+        "address": "Schous plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/423",
+          "ios": "oslobysykkel://stations/423"
+        },
+        "lat": 59.920335,
+        "lon": 10.760804,
+        "capacity": 20
+      },
+      {
+        "station_id": "412",
+        "name": "Jakob kirke",
+        "address": "Jakob Kirke",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/412",
+          "ios": "oslobysykkel://stations/412"
+        },
+        "lat": 59.917866,
+        "lon": 10.754898,
+        "capacity": 9
+      },
+      {
+        "station_id": "387",
+        "name": "Studenterlunden",
+        "address": "Karl Johans gate 47",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/387",
+          "ios": "oslobysykkel://stations/387"
+        },
+        "lat": 59.914586,
+        "lon": 10.735453,
+        "capacity": 15
+      },
+      {
+        "station_id": "405",
+        "name": "Frognerbadet",
+        "address": "Middelthuns gate 28",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/405",
+          "ios": "oslobysykkel://stations/405"
+        },
+        "lat": 59.92808,
+        "lon": 10.708767,
+        "capacity": 18
+      },
+      {
+        "station_id": "441",
+        "name": "Vippetangen øst",
+        "address": "Vippetangen_Akershusstranden",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/441",
+          "ios": "oslobysykkel://stations/441"
+        },
+        "lat": 59.903989,
+        "lon": 10.741077,
+        "capacity": 15
+      },
+      {
+        "station_id": "443",
+        "name": "Sjøsiden ved trappen",
+        "address": "Christian Frederiks Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/443",
+          "ios": "oslobysykkel://stations/443"
+        },
+        "lat": 59.910154466964954,
+        "lon": 10.751980909227372,
+        "capacity": 45
+      },
+      {
+        "station_id": "454",
+        "name": "Furulund",
+        "address": "Vækerøveien 22",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/454",
+          "ios": "oslobysykkel://stations/454"
+        },
+        "lat": 59.9198098,
+        "lon": 10.651118,
+        "capacity": 24
+      },
+      {
+        "station_id": "436",
+        "name": "Vestkanttorvet",
+        "address": "Vestkanttorvet",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/436",
+          "ios": "oslobysykkel://stations/436"
+        },
+        "lat": 59.9244031,
+        "lon": 10.7130691,
+        "capacity": 15
+      },
+      {
+        "station_id": "394",
+        "name": "Bjølsen Studentby",
+        "address": "Bergensgata 15D",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/394",
+          "ios": "oslobysykkel://stations/394"
+        },
+        "lat": 59.943777539367225,
+        "lon": 10.760121127577955,
+        "capacity": 21
+      },
+      {
+        "station_id": "497",
+        "name": "Sirkustomta",
+        "address": "Sirkustomta",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/497",
+          "ios": "oslobysykkel://stations/497"
+        },
+        "lat": 59.919252,
+        "lon": 10.774712,
+        "capacity": 27
+      },
+      {
+        "station_id": "581",
+        "name": "Jordalgata",
+        "address": "Galgeberg 3G",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/581",
+          "ios": "oslobysykkel://stations/581"
+        },
+        "lat": 59.908227,
+        "lon": 10.781088,
+        "capacity": 24
+      },
+      {
+        "station_id": "461",
+        "name": "Vålerenga",
+        "address": "Strømsveien 23D",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/461",
+          "ios": "oslobysykkel://stations/461"
+        },
+        "lat": 59.908576,
+        "lon": 10.786856,
+        "capacity": 21
+      },
+      {
+        "station_id": "599",
+        "name": "Paléhaven",
+        "address": "Palehaven",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/599",
+          "ios": "oslobysykkel://stations/599"
+        },
+        "lat": 59.910331,
+        "lon": 10.75011,
+        "capacity": 48
+      },
+      {
+        "station_id": "428",
+        "name": "Olav Kyrres plass",
+        "address": "Olav Kyrres plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/428",
+          "ios": "oslobysykkel://stations/428"
+        },
+        "lat": 59.9193337,
+        "lon": 10.6968953,
+        "capacity": 24
+      },
+      {
+        "station_id": "400",
+        "name": "OsloMet",
+        "address": "Pilestredet 35",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/400",
+          "ios": "oslobysykkel://stations/400"
+        },
+        "lat": 59.919927,
+        "lon": 10.735428,
+        "capacity": 25
+      },
+      {
+        "station_id": "487",
+        "name": "Carl Berners plass nord",
+        "address": "Carl Berner Senter",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/487",
+          "ios": "oslobysykkel://stations/487"
+        },
+        "lat": 59.926929,
+        "lon": 10.776971,
+        "capacity": 21
+      },
+      {
+        "station_id": "438",
+        "name": "BI Nydalen",
+        "address": "Nydalsveien 37",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/438",
+          "ios": "oslobysykkel://stations/438"
+        },
+        "lat": 59.949239,
+        "lon": 10.768576,
+        "capacity": 42
+      },
+      {
+        "station_id": "459",
+        "name": "Valkyrieplassen",
+        "address": "Valkyriegata 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/459",
+          "ios": "oslobysykkel://stations/459"
+        },
+        "lat": 59.9281319,
+        "lon": 10.71842,
+        "capacity": 12
+      },
+      {
+        "station_id": "433",
+        "name": "Ila",
+        "address": "Ovenfor Claus Riis' gate",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/433",
+          "ios": "oslobysykkel://stations/433"
+        },
+        "lat": 59.931828,
+        "lon": 10.748745,
+        "capacity": 18
+      },
+      {
+        "station_id": "399",
+        "name": "Uelands gate",
+        "address": "Uelands gate 40",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/399",
+          "ios": "oslobysykkel://stations/399"
+        },
+        "lat": 59.929545,
+        "lon": 10.7489862,
+        "capacity": 36
+      },
+      {
+        "station_id": "489",
+        "name": "Torggata",
+        "address": "Torggata 18",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/489",
+          "ios": "oslobysykkel://stations/489"
+        },
+        "lat": 59.91598309274519,
+        "lon": 10.75155119076095,
+        "capacity": 30
+      },
+      {
+        "station_id": "551",
+        "name": "Olaf Ryes plass",
+        "address": "Olaf Ryes plass 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/551",
+          "ios": "oslobysykkel://stations/551"
+        },
+        "lat": 59.922425,
+        "lon": 10.758182,
+        "capacity": 35
+      },
+      {
+        "station_id": "406",
+        "name": "Carl Berners plass sør",
+        "address": "Frydens Gate 1A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/406",
+          "ios": "oslobysykkel://stations/406"
+        },
+        "lat": 59.92507,
+        "lon": 10.775996,
+        "capacity": 12
+      },
+      {
+        "station_id": "488",
+        "name": "Torshovparken vest",
+        "address": "Per Kvibergs gate 18",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/488",
+          "ios": "oslobysykkel://stations/488"
+        },
+        "lat": 59.93507,
+        "lon": 10.76915,
+        "capacity": 24
+      },
+      {
+        "station_id": "540",
+        "name": "Lilleborgbanen",
+        "address": "Ole Bulls gate 43",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/540",
+          "ios": "oslobysykkel://stations/540"
+        },
+        "lat": 59.93363159074286,
+        "lon": 10.769118139881124,
+        "capacity": 36
+      },
+      {
+        "station_id": "431",
+        "name": "Chr. Michelsens Gate",
+        "address": "Chr. Michelsens Gate 18",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/431",
+          "ios": "oslobysykkel://stations/431"
+        },
+        "lat": 59.927292,
+        "lon": 10.773185,
+        "capacity": 20
+      },
+      {
+        "station_id": "393",
+        "name": "Hans Nielsen Hauges plass",
+        "address": "Hans Nielsen Hauges plass 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/393",
+          "ios": "oslobysykkel://stations/393"
+        },
+        "lat": 59.939244,
+        "lon": 10.774319,
+        "capacity": 21
+      },
+      {
+        "station_id": "420",
+        "name": "Bjølsendumpa",
+        "address": "Treschows gate 8B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/420",
+          "ios": "oslobysykkel://stations/420"
+        },
+        "lat": 59.94032925181832,
+        "lon": 10.766136667493829,
+        "capacity": 21
+      },
+      {
+        "station_id": "397",
+        "name": "Storo Storsenter",
+        "address": "Vitaminveien 21",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/397",
+          "ios": "oslobysykkel://stations/397"
+        },
+        "lat": 59.94671044754387,
+        "lon": 10.773805285879131,
+        "capacity": 42
+      },
+      {
+        "station_id": "390",
+        "name": "Saga Kino",
+        "address": "Saga Kino",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/390",
+          "ios": "oslobysykkel://stations/390"
+        },
+        "lat": 59.91424026794647,
+        "lon": 10.732771354719745,
+        "capacity": 30
+      },
+      {
+        "station_id": "449",
+        "name": "Ruseløkkgården",
+        "address": "Ruseløkkgården",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/449",
+          "ios": "oslobysykkel://stations/449"
+        },
+        "lat": 59.91357497092093,
+        "lon": 10.726229742333288,
+        "capacity": 24
+      },
+      {
+        "station_id": "430",
+        "name": "Spikersuppa Vest",
+        "address": "Spikersuppa",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/430",
+          "ios": "oslobysykkel://stations/430"
+        },
+        "lat": 59.91372007130073,
+        "lon": 10.735886645853412,
+        "capacity": 42
+      },
+      {
+        "station_id": "484",
+        "name": "Karenslyst allé",
+        "address": "Karenslyst allé 9",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/484",
+          "ios": "oslobysykkel://stations/484"
+        },
+        "lat": 59.92033,
+        "lon": 10.683814,
+        "capacity": 35
+      },
+      {
+        "station_id": "479",
+        "name": "Tjuvholmen",
+        "address": "Tjuvholmen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/479",
+          "ios": "oslobysykkel://stations/479"
+        },
+        "lat": 59.909467,
+        "lon": 10.722509,
+        "capacity": 30
+      },
+      {
+        "station_id": "403",
+        "name": "Parkveien",
+        "address": "Parkveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/403",
+          "ios": "oslobysykkel://stations/403"
+        },
+        "lat": 59.921768,
+        "lon": 10.730476,
+        "capacity": 15
+      },
+      {
+        "station_id": "435",
+        "name": "Fram-gården",
+        "address": "Fram-gården",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/435",
+          "ios": "oslobysykkel://stations/435"
+        },
+        "lat": 59.915424,
+        "lon": 10.714577,
+        "capacity": 30
+      },
+      {
+        "station_id": "426",
+        "name": "Gimle Kino",
+        "address": "Gimle Kino",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/426",
+          "ios": "oslobysykkel://stations/426"
+        },
+        "lat": 59.91728078292675,
+        "lon": 10.708375798767435,
+        "capacity": 21
+      },
+      {
+        "station_id": "450",
+        "name": "Elisenberg",
+        "address": "Elisenberg",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/450",
+          "ios": "oslobysykkel://stations/450"
+        },
+        "lat": 59.919524,
+        "lon": 10.70884,
+        "capacity": 15
+      },
+      {
+        "station_id": "456",
+        "name": "Frognerstranda",
+        "address": "Frognerstranda",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/456",
+          "ios": "oslobysykkel://stations/456"
+        },
+        "lat": 59.9103558,
+        "lon": 10.7051061,
+        "capacity": 35
+      },
+      {
+        "station_id": "468",
+        "name": "Skillebekk",
+        "address": "Skillebekk",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/468",
+          "ios": "oslobysykkel://stations/468"
+        },
+        "lat": 59.912793405455375,
+        "lon": 10.710103028570302,
+        "capacity": 15
+      },
+      {
+        "station_id": "453",
+        "name": "Frogner Stadion",
+        "address": "Frogner Stadion",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/453",
+          "ios": "oslobysykkel://stations/453"
+        },
+        "lat": 59.92753764682686,
+        "lon": 10.710262803261259,
+        "capacity": 36
+      },
+      {
+        "station_id": "466",
+        "name": "Ullevålsalléen",
+        "address": "Ullevålsalléen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/466",
+          "ios": "oslobysykkel://stations/466"
+        },
+        "lat": 59.937913,
+        "lon": 10.73048,
+        "capacity": 15
+      },
+      {
+        "station_id": "469",
+        "name": "Studentparlamentet",
+        "address": "Studentparlamentet",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/469",
+          "ios": "oslobysykkel://stations/469"
+        },
+        "lat": 59.920852,
+        "lon": 10.733357,
+        "capacity": 30
+      },
+      {
+        "station_id": "416",
+        "name": "Tannlegehøyskolen",
+        "address": "Geitmyrsveien 54",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/416",
+          "ios": "oslobysykkel://stations/416"
+        },
+        "lat": 59.932383,
+        "lon": 10.741475,
+        "capacity": 15
+      },
+      {
+        "station_id": "391",
+        "name": "St. Hanshaugen park vest",
+        "address": "Colletts gate 31",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/391",
+          "ios": "oslobysykkel://stations/391"
+        },
+        "lat": 59.9268706,
+        "lon": 10.7384634,
+        "capacity": 20
+      },
+      {
+        "station_id": "389",
+        "name": "Pilestredet Studenthus",
+        "address": "Pilestredet 38",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/389",
+          "ios": "oslobysykkel://stations/389"
+        },
+        "lat": 59.9205528,
+        "lon": 10.7342854,
+        "capacity": 18
+      },
+      {
+        "station_id": "470",
+        "name": "St. Hanshaugen park nord",
+        "address": "Geitmyrsveien 35A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/470",
+          "ios": "oslobysykkel://stations/470"
+        },
+        "lat": 59.92979845370007,
+        "lon": 10.743540765932096,
+        "capacity": 15
+      },
+      {
+        "station_id": "384",
+        "name": "Vår Frelsers gravlund",
+        "address": "Ullevålsveien 9",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/384",
+          "ios": "oslobysykkel://stations/384"
+        },
+        "lat": 59.91944043984847,
+        "lon": 10.7437646218726,
+        "capacity": 18
+      },
+      {
+        "station_id": "425",
+        "name": "Adamstuen",
+        "address": "Adamstuen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/425",
+          "ios": "oslobysykkel://stations/425"
+        },
+        "lat": 59.932792,
+        "lon": 10.734457,
+        "capacity": 8
+      },
+      {
+        "station_id": "411",
+        "name": "Hasle Torg",
+        "address": "Hasle Torg, Grenseveien 54",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/411",
+          "ios": "oslobysykkel://stations/411"
+        },
+        "lat": 59.923240042155456,
+        "lon": 10.792831438028703,
+        "capacity": 24
+      },
+      {
+        "station_id": "598",
+        "name": "Sofienbergparken nord",
+        "address": "Helgesens gate 58",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/598",
+          "ios": "oslobysykkel://stations/598"
+        },
+        "lat": 59.923229,
+        "lon": 10.766171,
+        "capacity": 33
+      },
+      {
+        "station_id": "444",
+        "name": "AHO",
+        "address": "Arkitektur og Designhøgskolen i Oslo",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/444",
+          "ios": "oslobysykkel://stations/444"
+        },
+        "lat": 59.925265,
+        "lon": 10.750462,
+        "capacity": 20
+      },
+      {
+        "station_id": "447",
+        "name": "Kværnerbyen",
+        "address": "Smeltedigelen 1",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/447",
+          "ios": "oslobysykkel://stations/447"
+        },
+        "lat": 59.904473,
+        "lon": 10.786167,
+        "capacity": 30
+      },
+      {
+        "station_id": "408",
+        "name": "Tøyen skole",
+        "address": "Ringgata 2A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/408",
+          "ios": "oslobysykkel://stations/408"
+        },
+        "lat": 59.914943,
+        "lon": 10.773977,
+        "capacity": 15
+      },
+      {
+        "station_id": "737",
+        "name": "Munkegata",
+        "address": "Oslo gate 1B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/737",
+          "ios": "oslobysykkel://stations/737"
+        },
+        "lat": 59.908255,
+        "lon": 10.7678,
+        "capacity": 24
+      },
+      {
+        "station_id": "432",
+        "name": "St. Hanshaugen park sør",
+        "address": "Knud Knudsens Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/432",
+          "ios": "oslobysykkel://stations/432"
+        },
+        "lat": 59.924821,
+        "lon": 10.739909,
+        "capacity": 12
+      },
+      {
+        "station_id": "401",
+        "name": "Lille Schous plass",
+        "address": "Schous Plass.",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/401",
+          "ios": "oslobysykkel://stations/401"
+        },
+        "lat": 59.920259,
+        "lon": 10.760629,
+        "capacity": 6
+      },
+      {
+        "station_id": "452",
+        "name": "Vippetangen vest",
+        "address": "Vippetangen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/452",
+          "ios": "oslobysykkel://stations/452"
+        },
+        "lat": 59.903989,
+        "lon": 10.740627,
+        "capacity": 30
+      },
+      {
+        "station_id": "392",
+        "name": "Sjøsiden ved fontenen",
+        "address": "Christian Fredriks Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/392",
+          "ios": "oslobysykkel://stations/392"
+        },
+        "lat": 59.910180852633516,
+        "lon": 10.751698750995615,
+        "capacity": 50
+      },
+      {
+        "station_id": "481",
+        "name": "Rådhusgata",
+        "address": "Rådhusgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/481",
+          "ios": "oslobysykkel://stations/481"
+        },
+        "lat": 59.910924,
+        "lon": 10.736215,
+        "capacity": 42
+      },
+      {
+        "station_id": "495",
+        "name": "Vaterlandsparken",
+        "address": "Vaterlandsparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/495",
+          "ios": "oslobysykkel://stations/495"
+        },
+        "lat": 59.91351552854147,
+        "lon": 10.757334670552268,
+        "capacity": 41
+      },
+      {
+        "station_id": "478",
+        "name": "Jernbanetorget",
+        "address": "Fred Olsens gate 5",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/478",
+          "ios": "oslobysykkel://stations/478"
+        },
+        "lat": 59.911901,
+        "lon": 10.749929,
+        "capacity": 15
+      },
+      {
+        "station_id": "448",
+        "name": "Oslo Plaza",
+        "address": "Oslo Plaza",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/448",
+          "ios": "oslobysykkel://stations/448"
+        },
+        "lat": 59.91218291295141,
+        "lon": 10.7544337247013,
+        "capacity": 9
+      },
+      {
+        "station_id": "414",
+        "name": "Kontraskjæret",
+        "address": "Rådhusgata 32",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/414",
+          "ios": "oslobysykkel://stations/414"
+        },
+        "lat": 59.910242,
+        "lon": 10.73857,
+        "capacity": 12
+      },
+      {
+        "station_id": "476",
+        "name": "Edvard Storms gate",
+        "address": "Pilestredet Edvard Storms",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/476",
+          "ios": "oslobysykkel://stations/476"
+        },
+        "lat": 59.919111,
+        "lon": 10.736179,
+        "capacity": 20
+      },
+      {
+        "station_id": "445",
+        "name": "Sjølyst",
+        "address": "Drammensveien 161 B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/445",
+          "ios": "oslobysykkel://stations/445"
+        },
+        "lat": 59.921673,
+        "lon": 10.67666,
+        "capacity": 18
+      },
+      {
+        "station_id": "748",
+        "name": "Hydroparken",
+        "address": "Hydroparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/748",
+          "ios": "oslobysykkel://stations/748"
+        },
+        "lat": 59.914145,
+        "lon": 10.715505,
+        "capacity": 30
+      },
+      {
+        "station_id": "473",
+        "name": "Majorstuveien",
+        "address": "Majorstuveien",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/473",
+          "ios": "oslobysykkel://stations/473"
+        },
+        "lat": 59.926697,
+        "lon": 10.716195,
+        "capacity": 9
+      },
+      {
+        "station_id": "383",
+        "name": "Arkitekt Rivertz Plass",
+        "address": "Arkitekt Rivertz Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/383",
+          "ios": "oslobysykkel://stations/383"
+        },
+        "lat": 59.934936,
+        "lon": 10.749466,
+        "capacity": 30
+      },
+      {
+        "station_id": "480",
+        "name": "Helga Helgesens plass",
+        "address": "Helga Helgesens plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/480",
+          "ios": "oslobysykkel://stations/480"
+        },
+        "lat": 59.9121109,
+        "lon": 10.7661939,
+        "capacity": 25
+      },
+      {
+        "station_id": "421",
+        "name": "Alexander Kiellands Plass",
+        "address": "Alexander Kiellands Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/421",
+          "ios": "oslobysykkel://stations/421"
+        },
+        "lat": 59.92806670615684,
+        "lon": 10.751202636819613,
+        "capacity": 25
+      },
+      {
+        "station_id": "746",
+        "name": "Bygdøy allé",
+        "address": "Bygdøy allé",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/746",
+          "ios": "oslobysykkel://stations/746"
+        },
+        "lat": 59.919001,
+        "lon": 10.692321,
+        "capacity": 12
+      },
+      {
+        "station_id": "378",
+        "name": "Colosseum Kino",
+        "address": "Colosseum",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/378",
+          "ios": "oslobysykkel://stations/378"
+        },
+        "lat": 59.92984300295666,
+        "lon": 10.711284727205708,
+        "capacity": 12
+      },
+      {
+        "station_id": "417",
+        "name": "Uranienborgparken",
+        "address": "Uranienborgparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/417",
+          "ios": "oslobysykkel://stations/417"
+        },
+        "lat": 59.922485,
+        "lon": 10.720896,
+        "capacity": 15
+      },
+      {
+        "station_id": "427",
+        "name": "Briskeby",
+        "address": "Briskeby",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/427",
+          "ios": "oslobysykkel://stations/427"
+        },
+        "lat": 59.920218,
+        "lon": 10.717978,
+        "capacity": 15
+      },
+      {
+        "station_id": "418",
+        "name": "Norsk Folkemuseum",
+        "address": "Folkemuseet",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/418",
+          "ios": "oslobysykkel://stations/418"
+        },
+        "lat": 59.907674,
+        "lon": 10.686843,
+        "capacity": 12
+      },
+      {
+        "station_id": "413",
+        "name": "Majorstuen",
+        "address": "Kirkeveien 59",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/413",
+          "ios": "oslobysykkel://stations/413"
+        },
+        "lat": 59.929045,
+        "lon": 10.716926,
+        "capacity": 18
+      },
+      {
+        "station_id": "486",
+        "name": "Blindern Studenthus",
+        "address": "Blindernveien 2",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/486",
+          "ios": "oslobysykkel://stations/486"
+        },
+        "lat": 59.93522040770026,
+        "lon": 10.726476622250004,
+        "capacity": 24
+      },
+      {
+        "station_id": "471",
+        "name": "Marienlyst",
+        "address": "Suhms Gate 46A",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/471",
+          "ios": "oslobysykkel://stations/471"
+        },
+        "lat": 59.932432498521095,
+        "lon": 10.721762294477472,
+        "capacity": 12
+      },
+      {
+        "station_id": "597",
+        "name": "Fredensborg",
+        "address": "Fredensborgveien 64",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/597",
+          "ios": "oslobysykkel://stations/597"
+        },
+        "lat": 59.920995,
+        "lon": 10.750358,
+        "capacity": 15
+      },
+      {
+        "station_id": "739",
+        "name": "Hammersborg Torg",
+        "address": "Møllergata 39",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/739",
+          "ios": "oslobysykkel://stations/739"
+        },
+        "lat": 59.91652053839767,
+        "lon": 10.749202233135232,
+        "capacity": 20
+      },
+      {
+        "station_id": "382",
+        "name": "Stensgata",
+        "address": "Theresesgate_Stensgata",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/382",
+          "ios": "oslobysykkel://stations/382"
+        },
+        "lat": 59.92958561753996,
+        "lon": 10.732839000000013,
+        "capacity": 9
+      },
+      {
+        "station_id": "396",
+        "name": "Kirkeristen",
+        "address": "Stortorvet 13",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/396",
+          "ios": "oslobysykkel://stations/396"
+        },
+        "lat": 59.91300035973293,
+        "lon": 10.746760585982287,
+        "capacity": 24
+      },
+      {
+        "station_id": "735",
+        "name": "Oslo Hospital",
+        "address": "Oslo Gate 39",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/735",
+          "ios": "oslobysykkel://stations/735"
+        },
+        "lat": 59.90321254732584,
+        "lon": 10.7673442932541,
+        "capacity": 15
+      },
+      {
+        "station_id": "437",
+        "name": "Sentrum Scene",
+        "address": "Sentrum Scene",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/437",
+          "ios": "oslobysykkel://stations/437"
+        },
+        "lat": 59.91546786564256,
+        "lon": 10.751140873016311,
+        "capacity": 24
+      },
+      {
+        "station_id": "446",
+        "name": "Bislett Stadion",
+        "address": "Bislett Stadion",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/446",
+          "ios": "oslobysykkel://stations/446"
+        },
+        "lat": 59.925471317049954,
+        "lon": 10.73121932213806,
+        "capacity": 24
+      },
+      {
+        "station_id": "424",
+        "name": "Birkelunden",
+        "address": "Seidluksgata 23",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/424",
+          "ios": "oslobysykkel://stations/424"
+        },
+        "lat": 59.9256113,
+        "lon": 10.760926,
+        "capacity": 10
+      },
+      {
+        "station_id": "455",
+        "name": "Sofienbergparken sør",
+        "address": "Sofienberggata 17",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/455",
+          "ios": "oslobysykkel://stations/455"
+        },
+        "lat": 59.922337,
+        "lon": 10.7617503,
+        "capacity": 12
+      },
+      {
+        "station_id": "457",
+        "name": "Trondheimsveien",
+        "address": "Trondheimsveien 64",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/457",
+          "ios": "oslobysykkel://stations/457"
+        },
+        "lat": 59.9230577,
+        "lon": 10.7717192,
+        "capacity": 10
+      },
+      {
+        "station_id": "377",
+        "name": "Tøyenparken",
+        "address": "Tøyenparken",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/377",
+          "ios": "oslobysykkel://stations/377"
+        },
+        "lat": 59.915667,
+        "lon": 10.7775665,
+        "capacity": 29
+      },
+      {
+        "station_id": "738",
+        "name": "Lodalen busstopp",
+        "address": "Konows gate 45",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/738",
+          "ios": "oslobysykkel://stations/738"
+        },
+        "lat": 59.9034528,
+        "lon": 10.777958,
+        "capacity": 12
+      },
+      {
+        "station_id": "460",
+        "name": "Botanisk Hage sør",
+        "address": "Jens Bjelkes gate 39B",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/460",
+          "ios": "oslobysykkel://stations/460"
+        },
+        "lat": 59.915417698024385,
+        "lon": 10.76933022142641,
+        "capacity": 29
+      },
+      {
+        "station_id": "744",
+        "name": "Hallénparken",
+        "address": "Johan Sverdrups Plass",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/744",
+          "ios": "oslobysykkel://stations/744"
+        },
+        "lat": 59.9315302,
+        "lon": 10.762169,
+        "capacity": 10
+      },
+      {
+        "station_id": "485",
+        "name": "Sommerfrydhagen",
+        "address": "Sommerfrydhagen",
+        "rental_uris": {
+          "android": "oslobysykkel://stations/485",
+          "ios": "oslobysykkel://stations/485"
+        },
+        "lat": 59.911453,
+        "lon": 10.776072,
+        "capacity": 21
+      }
+    ]
+  }
+}
