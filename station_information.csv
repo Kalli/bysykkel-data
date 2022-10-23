@@ -63,7 +63,7 @@ station_id,name,address,lat,lon,capacity
 576,Dronningens gate,Dronningens gate 25,59.911392299457006,10.747281829592453,18
 577,Arkaden Nord,Dronningens gate ved Arkaden II,59.9121472,10.7480527,30
 592,Badebakken,Maridalsveien 244C,59.94558091179507,10.760323881579982,18
-587,Riddervoldplass,Riddervoldplass , Camilla Colletts vei,59.9191421,10.7196414,15
+587,Riddervoldplass,"Riddervoldplass, Camilla Colletts vei",59.9191421,10.7196414,15
 564,Oscars gate,Oscars gate - Hegdehaugsveien,59.9224222,10.7272388,30
 600,Dyvekes bru,St Halvards gate 13B,59.905323,10.7689579,12
 388,Skovveien,Skovveien ved Frognerveien,59.9163309,10.716349,18
@@ -108,7 +108,7 @@ station_id,name,address,lat,lon,capacity
 560,Gaustad T-bane,Gaustad T-bane,59.945955,10.710392,9
 534,Filipstadveien,Filipstadveien El-bilparkering/busslomme,59.9102277,10.7208788,39
 527,Biskop Gunnerus' gate,Oslo City - Biskop Gunnerus gate,59.9123341,10.752292,12
-601,Rolf Wickstrøms vei,Rolf Wickstrøms vei, Bergrådveien 13,59.9534114,10.7577241,20
+601,Rolf Wickstrøms vei,"Rolf Wickstrøms vei, Bergrådveien 13",59.9534114,10.7577241,20
 615,Munkedamsveien,Konserthuset/Munkedamsveien,59.9135227,10.7301061,21
 533,Sørvest for Slottsparken,Henrik Ibsens gate 40,59.915262,10.7253157,12
 526,Lille Grensen,Lille Grensen - Akersgata 43,59.9138973,10.7423101,15
@@ -226,7 +226,7 @@ station_id,name,address,lat,lon,capacity
 391,St. Hanshaugen park vest,Colletts gate 31,59.9268706,10.7384634,20
 495,Vaterlandsparken,Vaterlandsparken,59.91351552854147,10.757334670552268,41
 478,Jernbanetorget,Fred Olsens gate 5,59.911901,10.749929,15
-411,Hasle Torg,Hasle Torg, Grenseveien 54,59.923240042155456,10.792831438028703,24
+411,Hasle Torg,"Hasle Torg, Grenseveien 54",59.923240042155456,10.792831438028703,24
 448,Oslo Plaza,Oslo Plaza,59.91218291295141,10.7544337247013,9
 476,Edvard Storms gate,Pilestredet Edvard Storms,59.919111,10.736179,20
 473,Majorstuveien,Majorstuveien,59.926697,10.716195,9
