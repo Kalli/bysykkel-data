@@ -1,4 +1,5 @@
-station_id,is_installed,is_renting,is_returning,last_reported,num_bikes_available,num_docks_available2339,1,1,1,1666555407,13,15
+station_id,is_installed,is_renting,is_returning,last_reported,num_bikes_available,num_docks_available
+2339,1,1,1,1666555407,13,15
 2337,1,1,1,1666555407,14,1
 2334,1,1,1,1666555407,11,1
 2333,1,1,1,1666555407,15,0
