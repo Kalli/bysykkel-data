@@ -22,5 +22,5 @@ jobs:
         with:
           http_url: https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json
           downloaded_filename: station_status.json
-          axios_config: _axios.json
+          axios_config: z_axios.json
           postprocess: ./postprocessing.js
