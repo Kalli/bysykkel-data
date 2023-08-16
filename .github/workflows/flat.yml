@@ -1,7 +1,7 @@
 name: data
 on:
-  schedule:
-    - cron: "*/20 * * 4-11 *"
+#  schedule:
+#    - cron: "*/20 * * 4-11 *"
   workflow_dispatch: {}
   push:
     paths:
