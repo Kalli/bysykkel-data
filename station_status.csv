@@ -1,4 +1,4 @@
-"station_id","is_installed","is_renting","is_returning","last_reported","num_bikes_available","num_docks_available","num_vehicles_available","bikes_available","ebikes_available"
+"station_id","is_installed","is_renting","is_returning","last_reported","num_vehicles_available","num_bikes_available","num_docks_available","bikes_available","ebikes_available"
 5220,true,true,true,1724423154,0,0,20,0,0
 5217,true,true,true,1724423154,12,12,17,12,0
 5113,true,true,true,1724423154,1,1,12,1,0
