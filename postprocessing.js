@@ -8,7 +8,7 @@ const json = await readJSON(filename);
 const d = new Date();
 const hour = Number(d.toLocaleTimeString('en-GB', {timeZone: "Europe/Oslo"}).slice(0, 2));
 // Oslo bikes aren't accessible between 1 and 5, so we don't need to update within that time
-if (hour > 5 || hour < 1){
+if (hour > 4 || hour < 1){
    json.data.stations.map((element) => {
       // flatten the json to a csv row
       const row = Object.values(element).reduce((acc, value) => {
