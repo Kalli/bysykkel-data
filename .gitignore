@@ -12,6 +12,8 @@ share/*
 
 .vscode/*
 
+*.DS_store
+
 # IPython
 profile_default/
 ipython_config.py
