@@ -2,13 +2,11 @@
 
 Digging into Oslo's City Bike data - https://oslobysykkel.no/apne-data
 
-Fetches information from the [station status endpoint](https://oslobysykkel.no/apne-data/sanntid) every 20 minutes using Github's [Flat-Data](https://githubnext.com/projects/flat-data/) approach and actions.
+Fetches information from the [station status endpoint](https://oslobysykkel.no/apne-data/sanntid) every 20 minutes using Github's [Flat-Data](https://githubnext.com/projects/flat-data/) approach and actions. Read more about my findings [on my website](https://karltryggvason.com/oslo-city-bike-data/).
 
-## My findings 
+![](https://github.com/Kalli/bysykkel-data/blob/main/charts/bysykkel-system-availability-changes-by-hour.png?raw=true)
 
-The first question I wanted to dig into was "_how likely am I to find a bike or a parking spot at any station at a given time?_". To answer this I averaged the bike and dock availability at each station by hour and built some graphs from that data. You can browse through those [here](http://htmlpreview.github.io/?https://github.com/Kalli/bysykkel-data/blob/main/charts/bysykkel-station-hour-by-hour-availability.html). For instance here is the availability at a station close to my office: 
-
-![](./images/schous-plass-availability-by-hour.png)
+![](https://karltryggvason.com/img/thumbs/oslo-city-bike-heatmap.png)
 
 ## View the data
 
